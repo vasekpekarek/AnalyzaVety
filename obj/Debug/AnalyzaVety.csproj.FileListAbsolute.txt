@@ -1,0 +1,18 @@
+C:\Users\Peki\Desktop\AnalyzaVety\obj\Debug\AnalyzaVety.csprojResolveAssemblyReference.cache
+C:\Users\Peki\Desktop\AnalyzaVety\bin\Debug\AnalyzaVety.exe.config
+C:\Users\Peki\Desktop\AnalyzaVety\bin\Debug\AnalyzaVety.exe
+C:\Users\Peki\Desktop\AnalyzaVety\bin\Debug\AnalyzaVety.pdb
+C:\Users\Peki\Desktop\AnalyzaVety\obj\Debug\AnalyzaVety.exe
+C:\Users\Peki\Desktop\AnalyzaVety\obj\Debug\AnalyzaVety.pdb
+C:\Users\Peki\Documents\SharpDevelop Projects\Hotové programy\AnalyzaVety\bin\Debug\AnalyzaVety.exe.config
+C:\Users\Peki\Documents\SharpDevelop Projects\Hotové programy\AnalyzaVety\bin\Debug\AnalyzaVety.exe
+C:\Users\Peki\Documents\SharpDevelop Projects\Hotové programy\AnalyzaVety\bin\Debug\AnalyzaVety.pdb
+C:\Users\Peki\Documents\SharpDevelop Projects\Hotové programy\AnalyzaVety\obj\Debug\AnalyzaVety.csprojResolveAssemblyReference.cache
+C:\Users\Peki\Documents\SharpDevelop Projects\Hotové programy\AnalyzaVety\obj\Debug\AnalyzaVety.exe
+C:\Users\Peki\Documents\SharpDevelop Projects\Hotové programy\AnalyzaVety\obj\Debug\AnalyzaVety.pdb
+C:\Users\Peki\Documents\Programing\SharpDevelop Projects\Hotové programy\AnalyzaVety\bin\Debug\AnalyzaVety.exe.config
+C:\Users\Peki\Documents\Programing\SharpDevelop Projects\Hotové programy\AnalyzaVety\bin\Debug\AnalyzaVety.exe
+C:\Users\Peki\Documents\Programing\SharpDevelop Projects\Hotové programy\AnalyzaVety\bin\Debug\AnalyzaVety.pdb
+C:\Users\Peki\Documents\Programing\SharpDevelop Projects\Hotové programy\AnalyzaVety\obj\Debug\AnalyzaVety.exe
+C:\Users\Peki\Documents\Programing\SharpDevelop Projects\Hotové programy\AnalyzaVety\obj\Debug\AnalyzaVety.pdb
+C:\Users\Peki\Documents\Programing\SharpDevelop Projects\Hotové programy\AnalyzaVety\obj\Debug\AnalyzaVety.csprojAssemblyReference.cache
